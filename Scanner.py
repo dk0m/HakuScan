@@ -39,7 +39,7 @@ config = load('Config.toml')
 shodanConfig = config['Shodan']
 scannerConfig = config['Scanner']
 
-query = 'http.title:"Index of /" http.html:".sql"'
+query = scannerConfig['query']
 
 shodan = Shodan(key = shodanConfig['key'])
 
