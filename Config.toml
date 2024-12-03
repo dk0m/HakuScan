@@ -1,0 +1,5 @@
+[Scanner]
+query = 'http.title:"Index of /" http.html:".sql"'
+
+[Shodan]
+key = ''
