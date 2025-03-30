@@ -1,5 +1,5 @@
 # ODMaster
-Simple Open Directory Scanner, Can Be Useful For Pentesting.
+An Open Directory Scanner Which Dumps SQL Files, Might be useful for pentesters.
 
 ## Installing Requirements
 ```
